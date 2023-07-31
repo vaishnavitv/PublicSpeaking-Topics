@@ -1,0 +1,25 @@
+A11y-Friendly Words: Accessible style guides and a11y-friendly words
+
+Bring Swagger and A11yship to API documentation
+
+Good documentation accelerates development and consumption, and reduces the money and time that would otherwise be spent answering support calls. Documentation is part of the overall user experience, and is one of the biggest factors for increased API growth and usage.
+By integrating with color coded user interface that maps out the blueprint for APIs it benefits the following ways :
+Documentation is comprehensible for both developers and non-developers like clients or project managers.
+Specifications are human and machine readable.
+Generates interactive, easily testable documentation.
+
+This coupled with A11y-Friendly Words and phrases like 
+Use "people with disabilities" instead of "disabled people" to prioritize personhood over disability.
+Instead of "able-bodied," use "non-disabled" to refer to individuals who do not have disabilities.
+Use "accessible" instead of "handicap accessible" to describe spaces, buildings, or facilities that are designed for use by all people.
+Instead of "visually impaired," use "people with visual impairments" or "people who are blind or have low vision" to describe individuals with visual disabilities.
+Use "screen reader" instead of "reader software" to refer to assistive technology that reads aloud text on a computer screen.
+Instead of "normal" or "typical," use "average" or "common" to avoid implying that people with disabilities are abnormal.
+Use "inclusive" or "inclusive design" instead of "accessible design" to emphasize the goal of designing for all users.
+
+
+API documentation is the information that is required to successfully consume and integrate with an API. This can be in the form of technical writing, code samples and examples for better understanding how to consume an API. Concise and clear documentation — which allows your API consumers to adopt it into their application quickly — is no longer optional for organizations that want to drive adoption of their APIs.
+Good documentation accelerates development and consumption, and reduces the money and time that would otherwise be spent answering support calls. Documentation is part of the overall user experience, and is one of the biggest factors for increased API growth and usage.
+As RESTful services grow in number, so do the programming languages that are used to implement them, making it harder for them to communicate. API documentation can be thought of as the interface for consuming an API, and such, needs to facilitate interaction between these different web services. Regular API interfaces, be it text documentation, or others like Javadocs, do not allow them to communicate with each other. 
+
+Shift left
